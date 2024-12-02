@@ -1,11 +1,14 @@
-# Process Writeup
+# Process writeup
 
-## Name: 
-## Course: 
-## Period: 
-## Concept: 
+## Name: Alaa Halim 
+## Course: Sep10 Web Design 
+## Period: 8
+## Concept: Avd Jigsaw 
 
-### Section
+### context: 
+<p>Throughtout the Avd Jigsaw lessons and project, we learned how to use basics, colors, positioning, geomatry, and animation in order to code elements. </p>
+
+
 
 Text
 
